@@ -1,5 +1,7 @@
 # Sales Dashboard (Excel)
 
+#![Dashboard](dashboard.png)
+
 ##  Project Overview
 This project analyzes sales data from 2019–2020 using Excel to identify trends,customer behaviorand key busniess insights.
 
