@@ -1,6 +1,6 @@
 # Sales Dashboard (Excel)
 
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot (24).png)
 
 ## 📌 Project Overview
 This project analyzes sales data from 2019–2020 using Excel to evaluate business performance across countries, categories, and managers. The dashboard highlights key revenue and profit trends to support data-driven decision-making.
